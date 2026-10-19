@@ -4,12 +4,7 @@
 
 ### 💻 Desarrolladora de Software | 🎓 Estudiante de DAM
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrolladora+en+formación;Java+%7C+JavaScript+%7C+Python;Siempre+aprendiendo+y+creando+nuevos+proyectos" alt="Typing SVG" />
-
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=for-the-badge" alt="visitas"/>
-
 </div>
 
 ---
@@ -60,55 +55,7 @@
 
 ---
 
-## 📊 Estadísticas GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Racha de contribuciones
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night" />
-
-</div>
-
----
-
-## 🏆 Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 ## 💼 Proyectos Destacados
-
-### 🍅 Pomodoro Timer
-Aplicación web para mejorar la productividad utilizando la técnica Pomodoro.
-
-### 📸 Dynamic Album Gallery
-Galería interactiva con tarjetas dinámicas, filtros y modo oscuro.
 
 ### 🎵 RIPA
 Proyecto intermodular DAM combinando desarrollo web, documentación y gestión de datos.
@@ -123,6 +70,7 @@ Proyecto intermodular DAM combinando desarrollo web, documentación y gestión d
 ✅ Python
 ✅ MongoDB + Mongoose
 ✅ SQL
+✅ noSQL
 🔄 Frameworks modernos
 🔄 Buenas prácticas de desarrollo
 ```
@@ -139,16 +87,8 @@ Proyecto intermodular DAM combinando desarrollo web, documentación y gestión d
 
 ---
 
-## ✨ Frase favorita
-
-> "Primero resuélvelo. Después optimízalo."
-
----
-
 <div align="center">
 
 ### ⭐ Gracias por visitar mi perfil ⭐
-
-💙 Siempre aprendiendo, construyendo y compartiendo conocimiento.
 
 </div>
