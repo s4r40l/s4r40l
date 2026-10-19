@@ -4,7 +4,6 @@
 
 ### 💻 Desarrolladora de Software | 🎓 Estudiante de DAM
 
-<br><br>
 </div>
 
 ---
