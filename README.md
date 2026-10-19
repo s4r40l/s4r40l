@@ -1,3 +1,6 @@
+<img width="752" height="2268" alt="image" src="https://github.com/user-attachments/assets/318749b9-5ea6-4c23-ba79-55f5eb787385" />
+
+
 👋 ¡Hola! Soy Sara
 💻 Desarrolladora de Software | 🎓 Estudiante de DAM | 🚀 Apasionada por la tecnología
 
