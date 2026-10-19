@@ -1,7 +1,5 @@
 ## Hello everybody, Soy Sara!
 
-<img width="650" height="50" alt="image" src="https://github.com/user-attachments/assets/dcf81f11-7331-4ef1-846a-e2d9b3cae0ca" />
-
 
 <!--
 **s4r40l/s4r40l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
